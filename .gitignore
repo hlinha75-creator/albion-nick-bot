@@ -1,0 +1,6 @@
+node_modules/
+.env
+.replit
+replit.nix
+.config/
+.cache/

@@ -1,0 +1,16 @@
+{
+  "name": "albion-nick-bot",
+  "version": "1.0.0",
+  "description": "Bot para renomear nicks no Discord baseado no nick do Albion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
