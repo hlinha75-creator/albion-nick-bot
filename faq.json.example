@@ -1,0 +1,23 @@
+{
+  "questions": [
+    {
+      "id": "1715760000000",
+      "question": "como farmar fame rapido",
+      "answer": "Para farmar fame rápido no Albion, recomendamos: 1) Fazer dungeons de grupo em mapas T6+, 2) Participar de ganks e PvP em zona negra, 3) Fazer HCE (Hardcore Expeditions) com um grupo fixo, 4) Usar boost de sativa. Lembre-se de sempre usar gear de recuperação de fama!",
+      "keywords": ["farmar", "fame", "rapido", "dungeons", "grupo", "ganks", "hce", "boost"],
+      "added_by": "Staff#0001",
+      "created_at": "2024-05-15T10:00:00.000Z",
+      "usage_count": 5
+    },
+    {
+      "id": "1715760000001",
+      "question": "onde fica o mercado da guild",
+      "answer": "O mercado da guild fica na nossa ilha privada! Para acessar, vá até o portal da cidade mais próxima e procure o portal da guild 'NOTAG'. Se não tiver acesso, peça a um officer.",
+      "keywords": ["mercado", "guild", "ilha", "portal", "acesso", "officer"],
+      "added_by": "Staff#0001",
+      "created_at": "2024-05-15T11:00:00.000Z",
+      "usage_count": 12
+    }
+  ],
+  "pending": []
+}
