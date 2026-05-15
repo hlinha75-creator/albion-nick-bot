@@ -749,7 +749,7 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-// Cria canal ao entrar no servidor
+// Cria canal ao entrar no servidor.
 client.on('guildCreate', async (guild) => {
   try {
     const existing = guild.channels.cache.find(
